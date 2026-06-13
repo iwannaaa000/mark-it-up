@@ -1,10 +1,12 @@
-@import "tailwindcss";
-@layer base {
-    #root {
-        @apply h-full;
-    }
+@import 'tailwindcss';
+@plugin "@tailwindcss/typography";
 
-    html,
+@layer base {
+  #root {
+    @apply h-full;
+  }
+
+  html,
   body {
     @apply h-full;
 
@@ -24,7 +26,7 @@
     -webkit-app-region: no-drag;
   }
 
-   ::-webkit-scrollbar {
+  ::-webkit-scrollbar {
     @apply w-2;
   }
 
@@ -35,5 +37,4 @@
   ::-webkit-scrollbar-track {
     @apply bg-transparent;
   }
-
 }

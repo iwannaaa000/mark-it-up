@@ -3930,7 +3930,7 @@ fs-extra@^10.0.0, fs-extra@^10.1.0:
     jsonfile "^6.0.1"
     universalify "^2.0.0"
 
-fs-extra@^11.1.1, fs-extra@^11.2.0:
+fs-extra@^11.1.1, fs-extra@^11.2.0, fs-extra@^11.3.5:
   version "11.3.5"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.3.5.tgz#07a44eff40bea53e719909a532f91a23bf0769ff"
   integrity sha512-eKpRKAovdpZtR1WopLHxlBWvAgPny3c4gX1G5Jhwmmw4XJj0ifSD5qB5TOo8hmA0wlRKDAOAhEE1yVPgs6Fgcg==
@@ -4566,10 +4566,10 @@ jiti@^2.4.2, jiti@^2.6.1:
   resolved "https://registry.yarnpkg.com/jiti/-/jiti-2.7.0.tgz#974228f2f4ca2bc21885a1797b45fea68e950c64"
   integrity sha512-AC/7JofJvZGrrneWNaEnJeOLUx+JlGt7tNa0wZiRPT4MY1wmfKjt2+6O2p2uz2+skll8OZZmJMNqeke7kKbNgQ==
 
-jotai@^2.20.0:
-  version "2.20.0"
-  resolved "https://registry.yarnpkg.com/jotai/-/jotai-2.20.0.tgz#0e3422f6f7141758e8212d72338f9cf3bef5fd45"
-  integrity sha512-b5GAqgmXmXzB4WPaTH26ppk9Sl7AA9WSQX7yfdM+gJ1rFROiWcVbi97gFuN/yVCojOcbcvop2sfLL+fjxW0JVg==
+jotai@^2.20.1:
+  version "2.20.1"
+  resolved "https://registry.yarnpkg.com/jotai/-/jotai-2.20.1.tgz#473274f1b78c60acce1b868be5655b3c706dec8e"
+  integrity sha512-dnuKfU/GLi8B28RRMjQ3AfoN7kfzP8o41+AX2FmITZqEMY8PHnjABq+VkEooomLwYaGjda+pgy0yFSjaHX/ZPg==
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
