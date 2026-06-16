@@ -78,7 +78,7 @@ export const createNote: CreateNote = async () => {
     return false
   }
 
-  const { name: filename, dir: parentDir } = path.parse(filePath)
+  const { name: filename } = path.parse(filePath)
 
   // if (parentDir !== rootDir) {
   //   await dialog.showMessageBox({
